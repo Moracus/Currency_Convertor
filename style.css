@@ -1,0 +1,40 @@
+body {
+    background-color: #212529;
+    font-family: 'poppins', monospace;
+}
+
+.heading {
+    color: #DEE2E6;
+    text-align: center;
+}
+
+.main {
+    background-color: rgb(216, 211, 211);
+    height: auto;
+    width: 70%;
+
+}
+
+.finalAmount {
+    display: none;
+    font-family: 'poppins', monospace;
+}
+
+.convertBtn {
+    padding: 50px 0 10px 0;
+}
+
+#currencyForm .container {
+    padding: 30px 10px 20px 10px;
+}
+
+.col-form-label {
+    font-family: 'poppins', monospace;
+    font-weight: bold;
+    font-size: larger;
+    padding-left: 4em;
+}
+.credits{
+    display: flex;
+    justify-content: center;
+}
