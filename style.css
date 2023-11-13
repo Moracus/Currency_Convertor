@@ -21,20 +21,25 @@ body {
 }
 
 .convertBtn {
-    padding: 50px 0 10px 0;
+    padding: 50px 0 10px 50px;
+
 }
 
 #currencyForm .container {
-    padding: 30px 10px 20px 10px;
+    padding: 3em 1em 2em 1em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 .col-form-label {
     font-family: 'poppins', monospace;
     font-weight: bold;
     font-size: larger;
-    padding-left: 4em;
+    /* padding-left: 4em; */
 }
-.credits{
+
+.credits {
     display: flex;
     justify-content: center;
 }
